@@ -28,7 +28,7 @@ $(function () {
                       </tr>`;
           linhas += lin;
         }
-        $("#tabelaLivros").html(linhas);
+        $("#corpoTabelaLivros").html(linhas);
       }
     }
   
